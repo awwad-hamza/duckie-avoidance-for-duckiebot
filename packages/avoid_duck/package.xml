@@ -1,0 +1,11 @@
+<package>
+  <name>avoid_duck</name>
+  <version>0.0.1</version>
+  <description>
+  Package used for detecting and avoiding ducks
+  </description>
+  <maintainer email="hamzaawad1854@gmail.com">Hamza Awwad</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
