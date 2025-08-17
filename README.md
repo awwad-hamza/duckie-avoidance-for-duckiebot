@@ -1,7 +1,7 @@
 
 # Duckiebot Object Avoidance
 
-This project implements a simple **object avoidance system** for Duckiebot using the **front-center Time-of-Flight (ToF) sensor** and wheel commands.  
+This project implements a simple **object avoidance system** for [Duckietown's](https://duckietown.com/) Duckiebot DB21M using the **front-center Time-of-Flight (ToF) sensor** and wheel commands.  
 The bot drives forward, monitors the ToF sensor, and when an obstacle is detected within a safety threshold, it executes an avoidance maneuver.
 
 ---
