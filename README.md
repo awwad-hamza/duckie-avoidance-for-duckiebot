@@ -42,10 +42,11 @@ duckie-avoidance-for-duckiebot/
 
 ##  Usage
 
-### 1. Make the Node Executable
+### 1. Make the Node and Launch FileExecutable
 Before running, give execution permission to the node script:
 ```bash
 chmod +x ./packages/avoid_duck/src/wheel_control_node.py
+chmod +x ./launchers/wheel-control.sh
 ```
 ### 2. Run Options
 
