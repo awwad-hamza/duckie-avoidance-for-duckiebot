@@ -6,15 +6,6 @@ The bot drives forward, monitors the ToF sensor, and when an obstacle is detecte
 
 ---
 
-## Features
-- Moves forward at a constant speed.
-- Continuously monitors the front-center ToF sensor (`/VEHICLE_NAME/front_center_tof_driver_node/range`).
-- Stops if an obstacle is closer than the safety distance.
-- Turns right after detection.
-- Terminates the node automatically after avoidance.
-
----
-
 ## Repository Layout
 ```bash
 duckie-avoidance-for-duckiebot/
